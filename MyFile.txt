@@ -1,0 +1,10 @@
+Percentage of each emotion that was seen during this recording:
+angry 1.73%
+disgust 0.04%
+fear 2.48%
+happy 43.52%
+neutral 37.33%
+sad 6.98%
+surprise 7.92%
+
+AI Project - Emotion Detection
